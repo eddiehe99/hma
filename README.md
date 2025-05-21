@@ -1,0 +1,2 @@
+# hma
+HMA，全称 HOPICO MUSIC AWARDS ， HOPICO 音乐奖 。
