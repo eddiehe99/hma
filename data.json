@@ -616,5 +616,107 @@
                 "title": "HOPICO MUSIC AWARDS 2ND 年度最佳海外专辑"
             }
         }
+    },
+    "HOPICO MUSIC AWARDS 1ST": {
+        "href": "https://www.bilibili.com/video/BV16a411B7UB/",
+        "categories": {
+            "BEST NEW ARTIST ALBUM": {
+                "albums": [
+                    {
+                        "name": "Fresh Soul",
+                        "performer": "吕彦良",
+                        "award": "获奖"
+                    }
+                ],
+                "short_title": "HMA 1st 年度最佳新人奖",
+                "title": "HOPICO MUSIC AWARDS 1ST 年度最佳新人奖"
+            },
+            "BEST POP ALBUM": {
+                "albums": [
+                    {
+                        "name": "美夢公司",
+                        "performer": "许钧",
+                        "award": "获奖"
+                    }
+                ],
+                "short_title": "HMA 1st 年度最佳流行专辑",
+                "title": "HOPICO MUSIC AWARDS 1ST 年度最佳流行专辑"
+            },
+            "BEST R&B ALBUM": {
+                "albums": [
+                    {
+                        "name": "OPDEN",
+                        "performer": "DEN",
+                        "award": "获奖"
+                    }
+                ],
+                "short_title": "HMA 1st 年度最佳 R&B 专辑",
+                "title": "HOPICO MUSIC AWARDS 1ST 年度最佳 R&B 专辑"
+            },
+            "BEST HIP HOP ALBUM": {
+                "albums": [
+                    {
+                        "name": "宝藏山中",
+                        "performer": "宝藏山",
+                        "award": "获奖"
+                    }
+                ],
+                "short_title": "HMA 1st 年度最佳嘻哈专辑",
+                "title": "HOPICO MUSIC AWARDS 1ST 年度最佳嘻哈专辑"
+            },
+            "BEST ROCK ALBUM": {
+                "albums": [
+                    {
+                        "name": "飞狗",
+                        "performer": "崔健",
+                        "award": "获奖"
+                    }
+                ],
+                "short_title": "HMA 1st 年度最佳摇滚专辑",
+                "title": "HOPICO MUSIC AWARDS 1ST 年度最佳摇滚专辑"
+            },
+            "BEST JAZZ ALBUM": {
+                "albums": [
+                    {
+                        "name": "Atypical Airship",
+                        "performer": "肖骏",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "欲言又止",
+                        "performer": "喜辰晨",
+                        "award": "获奖"
+                    },
+                    {
+                        "name": "Furry Fairy",
+                        "performer": "LEONWILL",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "Take a Baby Step",
+                        "performer": "张雄关",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "Blunt Razor",
+                        "performer": "sleeping dogs",
+                        "award": "提名"
+                    }
+                ],
+                "short_title": "HMA 2nd 年度最佳爵士专辑",
+                "title": "HOPICO MUSIC AWARDS 2ND 年度最佳爵士专辑"
+            },
+            "BEST INTERNATIONAL ALBUM": {
+                "albums": [
+                    {
+                        "name": "BAD MODE",
+                        "performer": "宇多田ヒカル",
+                        "award": "获奖"
+                    }
+                ],
+                "short_title": "HMA 2nd 年度最佳海外专辑",
+                "title": "HOPICO MUSIC AWARDS 2ND 年度最佳海外专辑"
+            }
+        }
     }
 }
