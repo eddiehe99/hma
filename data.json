@@ -1,6 +1,6 @@
 {
     "HOPICO MUSIC AWARDS 4TH": {
-        "href": "https://www.bilibili.com/video/BV1VrC6YJEcD",
+        "href": "https://www.bilibili.com/video/BV1VrC6YJEcD/",
         "categories": {
             "BEST NEW ARTIST ALBUM": {
                 "albums": [
@@ -105,7 +105,7 @@
                     {
                         "name": "八方来财",
                         "performer": "揽佬",
-                        "award": "获奖"
+                        "award": "提名"
                     },
                     {
                         "name": "我说白了",
@@ -115,7 +115,7 @@
                     {
                         "name": "来往世界",
                         "performer": "烧提碎",
-                        "award": "提名"
+                        "award": "获奖"
                     },
                     {
                         "name": "七号种子",
@@ -188,7 +188,7 @@
                 "short_title": "HMA 4th 年度最佳爵士/器乐律动专辑",
                 "title": "HOPICO MUSIC AWARDS 4TH 年度最佳爵士/器乐律动专辑"
             },
-            "BEST ELESTRONIC ALBUM": {
+            "BEST ELECTRONIC ALBUM": {
                 "albums": [
                     {
                         "name": "Motivations TO-GO",
@@ -218,6 +218,17 @@
                 ],
                 "short_title": "HMA 4th 年度最佳电子专辑",
                 "title": "HOPICO MUSIC AWARDS 4TH 年度最佳电子专辑"
+            },
+            "BEST ALBUM OF THE YEAR": {
+                "albums": [
+                    {
+                        "name": "梦想家 The Dreamer",
+                        "performer": "方大同",
+                        "award": "获奖"
+                    }
+                ],
+                "short_title": "HMA 4th 年度最佳专辑",
+                "title": "HOPICO MUSIC AWARDS 4TH 年度最佳专辑"
             },
             "BEST INTERNATIONAL ALBUM": {
                 "albums": [
@@ -232,236 +243,216 @@
             }
         }
     },
-    "HOPICO MUSIC AWARDS 3TH": {
-        "href": "https://www.bilibili.com/video/BV1VrC6YJEcD",
+    "HOPICO MUSIC AWARDS 3RD": {
+        "href": "https://www.bilibili.com/video/BV1M1421S7mS/",
         "categories": {
             "BEST NEW ARTIST ALBUM": {
                 "albums": [
                     {
-                        "name": "shhh, it's under my bed",
-                        "performer": "Andr",
+                        "name": "反返",
+                        "performer": "反返",
                         "award": "提名"
                     },
                     {
-                        "name": "Za Nang Zz Nang",
-                        "performer": "Chainhaha",
+                        "name": "Just Be A Rock",
+                        "performer": "关浩德",
                         "award": "提名"
                     },
                     {
-                        "name": "自行人",
-                        "performer": "Jei Cyclist",
+                        "name": "飞燕惊鸿",
+                        "performer": "popogo",
                         "award": "提名"
                     },
                     {
-                        "name": "Bu Xiang",
-                        "performer": "梯云纵",
+                        "name": "曾柯淳",
+                        "performer": "Nefelibata 2",
                         "award": "提名"
                     },
                     {
-                        "name": "No, no!",
-                        "performer": "张醒婵",
+                        "name": "祝梓",
+                        "performer": "意识漫游",
                         "award": "获奖"
                     }
                 ],
-                "short_title": "HMA 4th 年度最佳新人奖",
-                "title": "HOPICO MUSIC AWARDS 4TH 年度最佳新人奖"
+                "short_title": "HMA 3rd 年度最佳新人奖",
+                "title": "HOPICO MUSIC AWARDS 3RD 年度最佳新人奖"
             },
             "BEST POP ALBUM": {
                 "albums": [
                     {
-                        "name": "shhh, it's under my bed",
-                        "performer": "Andr",
+                        "name": "春游",
+                        "performer": "窦靖童",
                         "award": "提名"
                     },
                     {
-                        "name": "梦想家 The Dreamer",
-                        "performer": "方大同",
+                        "name": "Just Be A Rock",
+                        "performer": "关浩德",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "裘德",
+                        "performer": "裘德",
                         "award": "获奖"
                     },
                     {
-                        "name": "素颜的样子",
-                        "performer": "林以乐",
+                        "name": "期待集",
+                        "performer": "许钧",
                         "award": "提名"
                     },
                     {
-                        "name": "珍珠刑",
-                        "performer": "魏如萱",
-                        "award": "提名"
-                    },
-                    {
-                        "name": "太阳光明照我心",
-                        "performer": "文兆杰",
+                        "name": "FLOW",
+                        "performer": "杨乃文",
                         "award": "提名"
                     }
                 ],
-                "short_title": "HMA 4th 年度最佳流行专辑",
-                "title": "HOPICO MUSIC AWARDS 4TH 年度最佳流行专辑"
+                "short_title": "HMA 3rd 年度最佳流行专辑",
+                "title": "HOPICO MUSIC AWARDS 3RD 年度最佳流行专辑"
             },
             "BEST R&B ALBUM": {
                 "albums": [
                     {
-                        "name": "肥瘦音乐：全面体验",
-                        "performer": "地磁卡",
+                        "name": "Sent",
+                        "performer": "9m88",
                         "award": "提名"
                     },
                     {
-                        "name": "背面是我",
-                        "performer": "丁世光",
-                        "award": "提名"
-                    },
-                    {
-                        "name": "物件，所在",
-                        "performer": "FunkyMo",
+                        "name": "旷野",
+                        "performer": "Leo1bee",
                         "award": "获奖"
                     },
                     {
-                        "name": "ME?",
-                        "performer": "吕彦良",
+                        "name": "Hideout",
+                        "performer": "Linion",
                         "award": "提名"
                     },
                     {
-                        "name": "Hava a nice day/ have a good night",
-                        "performer": "周笔畅",
+                        "name": "Nefelibata 2",
+                        "performer": "曾柯淳",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "意识漫游",
+                        "performer": "祝梓",
                         "award": "提名"
                     }
                 ],
-                "short_title": "HMA 4th 年度最佳 R&B 专辑",
-                "title": "HOPICO MUSIC AWARDS 4TH 年度最佳 R&B 专辑"
+                "short_title": "HMA 3rd 年度最佳 R&B 专辑",
+                "title": "HOPICO MUSIC AWARDS 3RD 年度最佳 R&B 专辑"
             },
-            "BEST HIP-HOP ALBUM": {
+            "BEST HIP HOP ALBUM": {
                 "albums": [
                     {
-                        "name": "URBAN BOY",
-                        "performer": "BroFA",
+                        "name": "出土",
+                        "performer": "包涵",
                         "award": "提名"
                     },
                     {
-                        "name": "八方来财",
-                        "performer": "揽佬",
+                        "name": "GONA",
+                        "performer": "国蛋",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "blue",
+                        "performer": "Lu1",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "巴蜀文艺复兴",
+                        "performer": "施鑫文月",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "Young Fresh Chin",
+                        "performer": "夏之禹",
                         "award": "获奖"
-                    },
-                    {
-                        "name": "我说白了",
-                        "performer": "OuttaWave",
-                        "award": "提名"
-                    },
-                    {
-                        "name": "来往世界",
-                        "performer": "烧提碎",
-                        "award": "提名"
-                    },
-                    {
-                        "name": "七号种子",
-                        "performer": "万妮达",
-                        "award": "提名"
                     }
                 ],
-                "short_title": "HMA 4th 年度最佳嘻哈专辑",
-                "title": "HOPICO MUSIC AWARDS 4TH 年度最佳嘻哈专辑"
+                "short_title": "HMA 3rd 年度最佳嘻哈专辑",
+                "title": "HOPICO MUSIC AWARDS 3RD 年度最佳嘻哈专辑"
             },
             "BEST ROCK ALBUM": {
                 "albums": [
                     {
-                        "name": "口Aha",
-                        "performer": "Carsick Cars",
+                        "name": "Days Gone",
+                        "performer": "Fayzz",
                         "award": "提名"
                     },
                     {
-                        "name": "你在注视那遥远的地方",
-                        "performer": "当代电影大师",
+                        "name": "疯医",
+                        "performer": "疯医乐队",
                         "award": "提名"
                     },
                     {
-                        "name": "五雷轰心掌",
-                        "performer": "Run Run Run",
+                        "name": "本体",
+                        "performer": "鬼否乐队",
                         "award": "提名"
                     },
                     {
-                        "name": "俚人往事",
-                        "performer": "索廷",
+                        "name": "共同的土地",
+                        "performer": "缺省",
                         "award": "获奖"
                     },
                     {
-                        "name": "Filthy Floating Fantasies",
-                        "performer": "Sweet Sister Session",
+                        "name": "郊游",
+                        "performer": "蛙池",
                         "award": "提名"
                     }
                 ],
-                "short_title": "HMA 4th 年度最佳摇滚专辑",
-                "title": "HOPICO MUSIC AWARDS 4TH 年度最佳摇滚专辑"
+                "short_title": "HMA 3rd 年度最佳摇滚专辑",
+                "title": "HOPICO MUSIC AWARDS 3RD 年度最佳摇滚专辑"
             },
             "BEST JAZZ/INSTRUMENTAL ALBUM": {
                 "albums": [
                     {
-                        "name": "巫手",
-                        "performer": "Cyan Pac",
+                        "name": "栖居在溪源之上",
+                        "performer": "Cicada",
                         "award": "提名"
                     },
                     {
-                        "name": "Tropical Church",
-                        "performer": "江逸天",
+                        "name": "Hamt Zamin Humus",
+                        "performer": "Nara Bara",
                         "award": "提名"
                     },
                     {
-                        "name": "Soft Opening",
-                        "performer": "Resa Club",
+                        "name": "夜食堂骇人事件",
+                        "performer": "Pupoe Pltter",
                         "award": "提名"
                     },
                     {
-                        "name": "Queen and Elf",
-                        "performer": "喜辰晨",
+                        "name": "没问题少女",
+                        "performer": "潘子爵",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "In The Cave",
+                        "performer": "许郁瑛",
                         "award": "获奖"
-                    },
-                    {
-                        "name": "The Études",
-                        "performer": "张贝芝/Joyce Cheung",
-                        "award": "提名"
                     }
                 ],
-                "short_title": "HMA 4th 年度最佳爵士/器乐律动专辑",
-                "title": "HOPICO MUSIC AWARDS 4TH 年度最佳爵士/器乐律动专辑"
+                "short_title": "HMA 3rd 年度最佳爵士/器乐律动专辑",
+                "title": "HOPICO MUSIC AWARDS 3RD 年度最佳爵士/器乐律动专辑"
             },
-            "BEST ELESTRONIC ALBUM": {
+            "BEST ALBUM OF YEAR": {
                 "albums": [
                     {
-                        "name": "Motivations TO-GO",
-                        "performer": "CHILLGOGOG",
-                        "award": "提名"
-                    },
-                    {
-                        "name": "Reverie",
-                        "performer": "吴卓玲",
-                        "award": "提名"
-                    },
-                    {
-                        "name": "II",
-                        "performer": "White+",
+                        "name": "Young Fresh Chin",
+                        "performer": "夏之禹",
                         "award": "获奖"
-                    },
-                    {
-                        "name": "半身化石",
-                        "performer": "王长存",
-                        "award": "提名"
-                    },
-                    {
-                        "name": "other side of the other side of hope",
-                        "performer": "Mola Oddity ",
-                        "award": "提名"
                     }
                 ],
-                "short_title": "HMA 4th 年度最佳电子专辑",
-                "title": "HOPICO MUSIC AWARDS 4TH 年度最佳电子专辑"
+                "short_title": "HMA 3rd 年度最佳专辑",
+                "title": "HOPICO MUSIC AWARDS 3RD 年度最佳专辑"
             },
             "BEST INTERNATIONAL ALBUM": {
                 "albums": [
                     {
-                        "name": "Brat",
-                        "performer": "Charli XCX",
+                        "name": "12",
+                        "performer": "坂本龙一",
                         "award": "获奖"
                     }
                 ],
-                "short_title": "HMA 4th 年度最佳海外专辑",
-                "title": "HOPICO MUSIC AWARDS 4TH 年度最佳海外专辑"
+                "short_title": "HMA 3rd 年度最佳海外专辑",
+                "title": "HOPICO MUSIC AWARDS 3RD 年度最佳海外专辑"
             }
         }
     }
