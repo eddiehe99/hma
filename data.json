@@ -455,5 +455,166 @@
                 "title": "HOPICO MUSIC AWARDS 3RD 年度最佳海外专辑"
             }
         }
+    },
+    "HOPICO MUSIC AWARDS 2ND": {
+        "href": "https://www.bilibili.com/video/BV1584y1W72K/",
+        "categories": {
+            "BEST POP ALBUM": {
+                "albums": [
+                    {
+                        "name": "马拉美的星期二",
+                        "performer": "吴青峰",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "幸福星",
+                        "performer": "刘柏辛Lexie",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "爱神",
+                        "performer": "文兆杰",
+                        "award": "获奖"
+                    },
+                    {
+                        "name": "银河上升的三秒钟",
+                        "performer": "阿弗娄",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "LÜCY",
+                        "performer": "LÜCY",
+                        "award": "提名"
+                    }
+                ],
+                "short_title": "HMA 2nd 年度最佳流行专辑",
+                "title": "HOPICO MUSIC AWARDS 2ND 年度最佳流行专辑"
+            },
+            "BEST R&B ALBUM": {
+                "albums": [
+                    {
+                        "name": "FRANKENSTEIN",
+                        "performer": "BRADD",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "备忘录",
+                        "performer": "叶喜儿",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "TALENT",
+                        "performer": "鶴 The Crane",
+                        "award": "获奖"
+                    },
+                    {
+                        "name": "究竟",
+                        "performer": "余孟霏FEI",
+                        "award": "提名"
+                    }
+                ],
+                "short_title": "HMA 2nd 年度最佳 R&B 专辑",
+                "title": "HOPICO MUSIC AWARDS 2ND 年度最佳 R&B 专辑"
+            },
+            "BEST HIP HOP ALBUM": {
+                "albums": [
+                    {
+                        "name": "从流入夜",
+                        "performer": "鱼翅Fin",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "生命之书",
+                        "performer": "TASHI DELÄK",
+                        "award": "获奖"
+                    },
+                    {
+                        "name": "亚特兰蒂斯",
+                        "performer": "GALI",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "也是蓝",
+                        "performer": "也是福",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "diao",
+                        "performer": "Entropy+",
+                        "award": "提名"
+                    }
+                ],
+                "short_title": "HMA 2nd 年度最佳嘻哈专辑",
+                "title": "HOPICO MUSIC AWARDS 2ND 年度最佳嘻哈专辑"
+            },
+            "BEST ROCK ALBUM": {
+                "albums": [
+                    {
+                        "name": "狗日子",
+                        "performer": "表情银行",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "江湖卡夫卡",
+                        "performer": "生祥乐队",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "一些次要的时刻",
+                        "performer": "卧轨的火车",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "梦境",
+                        "performer": "大象体操",
+                        "award": "获奖"
+                    }
+                ],
+                "short_title": "HMA 2nd 年度最佳摇滚专辑",
+                "title": "HOPICO MUSIC AWARDS 2ND 年度最佳摇滚专辑"
+            },
+            "BEST JAZZ ALBUM": {
+                "albums": [
+                    {
+                        "name": "Atypical Airship",
+                        "performer": "肖骏",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "欲言又止",
+                        "performer": "喜辰晨",
+                        "award": "获奖"
+                    },
+                    {
+                        "name": "Furry Fairy",
+                        "performer": "LEONWILL",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "Take a Baby Step",
+                        "performer": "张雄关",
+                        "award": "提名"
+                    },
+                    {
+                        "name": "Blunt Razor",
+                        "performer": "sleeping dogs",
+                        "award": "提名"
+                    }
+                ],
+                "short_title": "HMA 2nd 年度最佳爵士专辑",
+                "title": "HOPICO MUSIC AWARDS 2ND 年度最佳爵士专辑"
+            },
+            "BEST INTERNATIONAL ALBUM": {
+                "albums": [
+                    {
+                        "name": "BAD MODE",
+                        "performer": "宇多田ヒカル",
+                        "award": "获奖"
+                    }
+                ],
+                "short_title": "HMA 2nd 年度最佳海外专辑",
+                "title": "HOPICO MUSIC AWARDS 2ND 年度最佳海外专辑"
+            }
+        }
     }
 }
